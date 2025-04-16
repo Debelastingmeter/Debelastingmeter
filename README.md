@@ -76,3 +76,10 @@
   </script>
 </body>
 </html>
+Debelastingmeter/
+│
+├── index.html
+├── css/
+│   └── style.css
+└── js/
+    └── script.js
